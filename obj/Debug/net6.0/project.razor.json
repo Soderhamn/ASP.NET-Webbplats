@@ -16303,8 +16303,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.1 Razor\\Pages\\Razor.cshtml",
-      "TargetPath": "Pages\\Razor.cshtml",
+      "FilePath": "c:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.1 Razor\\Pages\\AboutRazor.cshtml",
+      "TargetPath": "Pages\\AboutRazor.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.1 Razor\\Pages\\AboutMe.cshtml",
+      "TargetPath": "Pages\\AboutMe.cshtml",
       "FileKind": "mvc"
     },
     {
