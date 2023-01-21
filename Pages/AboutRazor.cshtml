@@ -2,8 +2,31 @@
 @model AboutRazorModel
 @{
     ViewData["Title"] = "Razor";
+
+    string[] Courses = {"DT191G, Webbutveckling med .NET", "DT071G, Programmering med C#", "IK060G, Projektledning", "DT193G, Fullstacutveckling med ramverk", "DT173G, Webbutveckling II", "DT003G, Databaser", "DT093G Webbutveckling II", "DT068G, Webbanvändbarhet", "DT163G, Digital bildbehandling för webb", "DT057G, Webbutveckling I", "DT084G, Introduktion till programmering i JavaScript" };
+
+    var dateTime = DateTime.Now;
+
+    var dagIdag = DateTime.Now.DayOfWeek.ToString().ToLower();
+
 }
 
 <h1>Razor</h1>
+<h2>Information</h2>
 
-<p>En sida</p>
+<p><span style="strong">Datum/klockslag:</span> @dateTime</p>
+@if(dagIdag == "monday") {
+    <p style="font-weight: bold; color: green;">Idag är det måndag!</p>
+}
+else {
+    <p style="font-weight: bold; color: red;">Idag är det inte måndag!</p>
+}
+</p>
+
+<h3>Kurser jag läst:</h3>
+<ul>
+    @foreach(string course in Courses) {
+        <li>@course</li>
+    }
+</ul>
+

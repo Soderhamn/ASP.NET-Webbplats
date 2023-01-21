@@ -1,3 +1,50 @@
+/*M-CSS av: Marcus Andersson, maan2117@student.miun.se 
+2023-01-18*/
 * {
   box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+
+  display: grid;
+  grid-template-columns: 20% 79%;
+  grid-template-rows: 200px auto 50px;
+  grid-row-gap: 16px;
+  grid-column-gap: 1%;
+}
+
+header {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  background-color: yellow;
+  display: flex;
+  justify-content: space-between;
+  justify-items: center;
+}
+
+nav {
+  background-color: blueviolet;
+}
+
+main {
+  background-color: aqua;
+  height: 100%;
+  min-height: 600px;
+  display: block;
+}
+
+footer {
+  background-color: brown;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+/*-------Klasser------*/
+.m-container {
+  padding: 16px;
 }

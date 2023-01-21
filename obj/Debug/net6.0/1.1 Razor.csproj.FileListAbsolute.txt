@@ -1,0 +1,26 @@
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\bin\Debug\net6.0\appsettings.json
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\bin\Debug\net6.0\1.1 Razor.staticwebassets.runtime.json
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\bin\Debug\net6.0\1.1 Razor.exe
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\bin\Debug\net6.0\1.1 Razor.deps.json
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\bin\Debug\net6.0\1.1 Razor.runtimeconfig.json
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\bin\Debug\net6.0\1.1 Razor.dll
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\bin\Debug\net6.0\1.1 Razor.pdb
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\1.1 Razor.csproj.AssemblyReference.cache
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\1.1 Razor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\1.1 Razor.AssemblyInfoInputs.cache
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\1.1 Razor.AssemblyInfo.cs
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\1.1 Razor.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\1.1 Razor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\1.1 Razor.RazorAssemblyInfo.cache
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\1.1 Razor.RazorAssemblyInfo.cs
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\scopedcss\bundle\1.1 Razor.styles.css
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\scopedcss\projectbundle\1.1 Razor.bundle.scp.css
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\1.1 Razor.dll
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\refint\1.1 Razor.dll
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\1.1 Razor.pdb
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\1.1 Razor.genruntimeconfig.cache
+C:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment1\1.1 Razor\obj\Debug\net6.0\ref\1.1 Razor.dll
