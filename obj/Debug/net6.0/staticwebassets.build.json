@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a+pHTO8l1YNX6rwH/giLRnJoRRDC2IVJ+F8sH1JzkG4=",
+  "Hash": "v0Q8hWuGKubNyjP8F96rxZcOXdf4cwWeTLbVWhV/CKY=",
   "Source": "1.1 Razor",
   "BasePath": "_content/1.1 Razor",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.1 Razor\\wwwroot\\images\\RazorWebbplatsen.gif",
+      "SourceId": "1.1 Razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.1 Razor\\wwwroot\\",
+      "BasePath": "_content/1.1 Razor",
+      "RelativePath": "images/RazorWebbplatsen.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\RazorWebbplatsen.gif"
     },
     {
       "Identity": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment1\\1.1 Razor\\wwwroot\\js\\site.js",
