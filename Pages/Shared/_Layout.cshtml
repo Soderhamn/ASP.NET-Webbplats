@@ -10,29 +10,30 @@
 </head>
 <body>
     <header class="m-container">
-        <h1>Webbplatsen</h1>
+        <a href=""><img src="images/RazorWebbplatsen.gif" alt="Logo"></a>
         @{
             var date = DateTime.Now; //Läs in tiden just nu
             string dateStr = date.ToString(); //Konvertera till Sträng
             string[] dateArr = dateStr.Split(" "); //Splitta till en array på blanksteg. dateArr[0] = datum, dateArr[1] = tid
 
         }
-        <p>Datum nu: @dateArr[0]</p>
+        <p id="dateParagraph">Dagens datum är: @dateArr[0]</p>
     </header>
-    <nav class="m-container">
-        <a asp-area="" asp-page="/Index">Start</a>
-        <a asp-area="" asp-page="/AboutRazor">Razor</a>
-        <a asp-area="" asp-page="/AboutMe">Om mig</a>
-    </nav>
+    <div class="container m-container">
+        <nav class="m-container">
+            <a asp-area="" asp-page="/Index">Start</a>
+            <a asp-area="" asp-page="/AboutRazor">Razor</a>
+            <a asp-area="" asp-page="/AboutMe">Om mig</a>
+        </nav>
 
-    <main class="m-container">
-        @RenderBody()
-    </main>
+        <main class="m-container">
+            @RenderBody()
+        </main>
 
-    <footer class="m-container">
-        <p>Av Marcus Andersson - Kontakta mig via e-post: <a href="mailto:maan2117@StatusCodePagesExtensions.miun.se">maan2117@StatusCodePagesExtensions.miun.se</a></p>
-    </footer>
-
+        <footer class="m-container">
+            <p>Av Marcus Andersson - Kontakta mig via e-post: <a href="mailto:maan2117@student.miun.se">maan2117@student.miun.se</a></p>
+        </footer>
+    </div>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
     @await RenderSectionAsync("Scripts", required: false)

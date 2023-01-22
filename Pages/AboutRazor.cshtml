@@ -3,7 +3,7 @@
 @{
     ViewData["Title"] = "Razor";
 
-    string[] Courses = {"DT191G, Webbutveckling med .NET", "DT071G, Programmering med C#", "IK060G, Projektledning", "DT193G, Fullstacutveckling med ramverk", "DT173G, Webbutveckling II", "DT003G, Databaser", "DT093G Webbutveckling II", "DT068G, Webbanvändbarhet", "DT163G, Digital bildbehandling för webb", "DT057G, Webbutveckling I", "DT084G, Introduktion till programmering i JavaScript" };
+    string[] Courses = {"DT191G, Webbutveckling med .NET", "DT071G, Programmering med C#", "IK060G, Projektledning", "DT193G, Fullstackutveckling med ramverk", "DT173G, Webbutveckling II", "DT003G, Databaser", "DT093G Webbutveckling II", "DT068G, Webbanvändbarhet", "DT163G, Digital bildbehandling för webb", "DT057G, Webbutveckling I", "DT084G, Introduktion till programmering i JavaScript" };
 
     var dateTime = DateTime.Now;
 
@@ -14,7 +14,7 @@
 <h1>Razor</h1>
 <h2>Information</h2>
 
-<p><span style="strong">Datum/klockslag:</span> @dateTime</p>
+<p><strong>Datum/klockslag:</strong> @dateTime</p>
 @if(dagIdag == "monday") {
     <p style="font-weight: bold; color: green;">Idag är det måndag!</p>
 }
